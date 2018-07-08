@@ -1,0 +1,17 @@
+{
+  "name": "tsubugai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^23.1.4",
+    "jest": "^23.3.0",
+    "ts-jest": "^23.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
